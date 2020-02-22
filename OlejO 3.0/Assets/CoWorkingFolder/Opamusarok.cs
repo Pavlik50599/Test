@@ -13,6 +13,6 @@ public class Opamusarok : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+      //ne shey mne srok  
     }
 }
