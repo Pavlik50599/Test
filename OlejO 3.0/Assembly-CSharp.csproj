@@ -56,6 +56,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Animator_Controller\Animation1.cs" />
+     <Compile Include="Assets\Merge папка\Lol_ papka.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/student/Documents/GitHub/Test/OlejO 3.0/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
