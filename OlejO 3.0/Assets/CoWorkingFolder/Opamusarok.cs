@@ -16,3 +16,4 @@ public class Opamusarok : MonoBehaviour
       //ne shey mne srok  
     }
 }
+//plohoe
